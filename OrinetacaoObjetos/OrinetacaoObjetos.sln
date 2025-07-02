@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrinetacaoObjetos", "OrinetacaoObjetos.csproj", "{E4D8954F-4023-4BD4-A846-6F18C0E85ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D8954F-4023-4BD4-A846-6F18C0E85ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D8954F-4023-4BD4-A846-6F18C0E85ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D8954F-4023-4BD4-A846-6F18C0E85ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D8954F-4023-4BD4-A846-6F18C0E85ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {694E3FA5-616A-484D-9193-CDB1F09ED016}
+	EndGlobalSection
+EndGlobal

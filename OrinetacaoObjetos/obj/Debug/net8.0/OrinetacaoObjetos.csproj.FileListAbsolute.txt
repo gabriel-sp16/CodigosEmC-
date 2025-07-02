@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\bin\Debug\net8.0\OrinetacaoObjetos.exe
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\bin\Debug\net8.0\OrinetacaoObjetos.deps.json
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\bin\Debug\net8.0\OrinetacaoObjetos.runtimeconfig.json
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\bin\Debug\net8.0\OrinetacaoObjetos.dll
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\bin\Debug\net8.0\OrinetacaoObjetos.pdb
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\obj\Debug\net8.0\OrinetacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\obj\Debug\net8.0\OrinetacaoObjetos.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\obj\Debug\net8.0\OrinetacaoObjetos.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\obj\Debug\net8.0\OrinetacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\obj\Debug\net8.0\OrinetacaoObjetos.dll
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\obj\Debug\net8.0\refint\OrinetacaoObjetos.dll
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\obj\Debug\net8.0\OrinetacaoObjetos.pdb
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\obj\Debug\net8.0\OrinetacaoObjetos.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\OrinetacaoObjetos\obj\Debug\net8.0\ref\OrinetacaoObjetos.dll

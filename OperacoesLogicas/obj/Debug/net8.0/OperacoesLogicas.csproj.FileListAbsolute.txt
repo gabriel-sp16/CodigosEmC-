@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\OperacoesLogicas\bin\Debug\net8.0\OperacoesLogicas.exe
+C:\Users\Aluno\source\repos\OperacoesLogicas\bin\Debug\net8.0\OperacoesLogicas.deps.json
+C:\Users\Aluno\source\repos\OperacoesLogicas\bin\Debug\net8.0\OperacoesLogicas.runtimeconfig.json
+C:\Users\Aluno\source\repos\OperacoesLogicas\bin\Debug\net8.0\OperacoesLogicas.dll
+C:\Users\Aluno\source\repos\OperacoesLogicas\bin\Debug\net8.0\OperacoesLogicas.pdb
+C:\Users\Aluno\source\repos\OperacoesLogicas\obj\Debug\net8.0\OperacoesLogicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\OperacoesLogicas\obj\Debug\net8.0\OperacoesLogicas.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\OperacoesLogicas\obj\Debug\net8.0\OperacoesLogicas.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\OperacoesLogicas\obj\Debug\net8.0\OperacoesLogicas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\OperacoesLogicas\obj\Debug\net8.0\OperacoesLogicas.dll
+C:\Users\Aluno\source\repos\OperacoesLogicas\obj\Debug\net8.0\refint\OperacoesLogicas.dll
+C:\Users\Aluno\source\repos\OperacoesLogicas\obj\Debug\net8.0\OperacoesLogicas.pdb
+C:\Users\Aluno\source\repos\OperacoesLogicas\obj\Debug\net8.0\OperacoesLogicas.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\OperacoesLogicas\obj\Debug\net8.0\ref\OperacoesLogicas.dll
